@@ -4,7 +4,7 @@ Aplicación web completa que realice operaciones CRUD
 
 INTEGRANTES:
 -LISANDRO PEREIRA
--LUZ LUZ PESALLACCIA
+-LUZ PESALLACCIA
 
 
 ESTRUCTURA DE BASE DE DATOS
